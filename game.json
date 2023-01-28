@@ -270,7 +270,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite15",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -279,7 +279,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite16",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -297,7 +297,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite17",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -306,7 +306,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "interRoof3",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -324,7 +324,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite18",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -333,7 +333,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "T_Roof2",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -351,7 +351,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite19.png\"}",
         "name": "NewSprite19",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -369,7 +369,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "mainRoof2",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -385,9 +385,9 @@
         "alwaysLoaded": false,
         "file": "assets/mainRoof4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mainRoof4.png\"}",
         "name": "mainRoof",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -405,7 +405,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite21",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -423,7 +423,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite23",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -432,7 +432,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "bigRoof2",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -441,7 +441,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "bigRoof3",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -450,7 +450,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "bigRoof4",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -531,7 +531,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/tree15.png\"}",
         "name": "tree15",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -540,7 +540,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree1_25",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -558,7 +558,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/tree1_32.png\"}",
         "name": "tree1_32",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -648,7 +648,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/tree26.png\"}",
         "name": "tree26",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -711,7 +711,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "assets\\NewSprite25 - Copie.png3",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -720,7 +720,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree2_3",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -738,7 +738,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree2_33",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -747,7 +747,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree2_3_2",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -756,7 +756,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite26",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -765,7 +765,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree2_4_2",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -783,7 +783,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -792,7 +792,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_2",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -810,7 +810,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_2_2",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": true
       },
       {
@@ -819,7 +819,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_3",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -855,7 +855,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_3_24",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -873,7 +873,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_3_3",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -882,7 +882,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_3_32",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -891,7 +891,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_3_25",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -900,7 +900,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite28",
-        "smoothed": true,
+        "smoothed": false,
         "userAdded": false
       },
       {
@@ -918,6 +918,33 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "tree3_4_2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Leaf.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Leaf",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Leaf2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Leaf2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/nutriment.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "nutriment",
         "smoothed": true,
         "userAdded": true
       }
@@ -939,7 +966,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 64,
         "gridHeight": 64,
@@ -947,8 +974,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.9456121752663404,
+        "snap": false,
+        "zoomFactor": 2.348631734092602,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1661,36 +1688,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "name": "leaf",
-          "persistentUuid": "25694fe9-4d42-4746-a25d-2886c5faa88e",
-          "width": 64,
-          "x": 832,
-          "y": 256,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "cristaux",
-          "persistentUuid": "563f34d1-91e0-497c-9947-4b6974cd40b3",
-          "width": 0,
-          "x": 640,
-          "y": 384,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -1742,7 +1739,7 @@
           "name": "bigRoof4",
           "persistentUuid": "33fe1da2-7d3c-448c-945a-549e7999e265",
           "width": 0,
-          "x": 1088,
+          "x": 1152,
           "y": 128,
           "zOrder": 15,
           "numberProperties": [],
@@ -2015,6 +2012,51 @@
           "x": 1408,
           "y": 832,
           "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "pesticide",
+          "persistentUuid": "73356b2f-ff9a-4aad-8b7e-b84050eff72e",
+          "width": 0,
+          "x": 1408,
+          "y": 384,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "nutriment",
+          "persistentUuid": "c63e4ef5-1fe0-4749-83bd-0c628f5c94ca",
+          "width": 0,
+          "x": 1211,
+          "y": 562,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Leaf",
+          "persistentUuid": "47a33c24-49d4-46d5-93d9-d8893aa2077c",
+          "width": 0,
+          "x": 1295,
+          "y": 564,
+          "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3353,6 +3395,90 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "tree3_4_2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Leaf",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Leaf",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Leaf2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "nutriment",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "nutriment",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "nutriment",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
