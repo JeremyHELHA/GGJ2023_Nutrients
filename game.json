@@ -92,6 +92,15 @@
         "name": "New image2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Collision.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Collision",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -101,15 +110,15 @@
   "variables": [],
   "layouts": [
     {
-      "b": 209,
+      "b": 29,
       "disableInputWhenNotFocused": true,
       "mangledName": "Niveau1",
       "name": "Niveau1",
-      "r": 209,
+      "r": 36,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 29,
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
@@ -120,23 +129,43 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8303667128434196,
+        "zoomFactor": 0.7614496330199841,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Player",
+          "objects": [
+            {
+              "name": "Goutte"
+            }
+          ]
+        },
+        {
+          "name": "Wall",
+          "objects": [
+            {
+              "name": "Sol"
+            },
+            {
+              "name": "BackgroundSky"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 64,
           "layer": "",
           "name": "Goutte",
           "persistentUuid": "509cc45c-5332-49f7-aef6-8cc7b5269b7f",
-          "width": 0,
-          "x": 896,
-          "y": 384,
-          "zOrder": 2,
+          "width": 64,
+          "x": 832,
+          "y": 128,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -149,8 +178,8 @@
           "name": "BackgroundSky",
           "persistentUuid": "bd827ef7-0ee3-474c-a63f-83c65f4bf6e8",
           "width": 2376,
-          "x": -253,
-          "y": -362,
+          "x": -392,
+          "y": -618,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -164,8 +193,8 @@
           "name": "Racine",
           "persistentUuid": "4a977b28-a337-40ef-8f72-28678f67d245",
           "width": 0,
-          "x": 896,
-          "y": 384,
+          "x": 832,
+          "y": 128,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -179,8 +208,8 @@
           "name": "Racine",
           "persistentUuid": "108d44bc-b94e-4a28-b74f-11c0fbaa1cec",
           "width": 0,
-          "x": 896,
-          "y": 448,
+          "x": 832,
+          "y": 192,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -194,8 +223,8 @@
           "name": "Racine",
           "persistentUuid": "937440a6-43f3-4952-aa35-5811bc4c58c0",
           "width": 0,
-          "x": 896,
-          "y": 512,
+          "x": 832,
+          "y": 256,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -209,8 +238,8 @@
           "name": "Racine",
           "persistentUuid": "bec34f91-0140-4d53-afc5-4ba23c747b75",
           "width": 0,
-          "x": 896,
-          "y": 576,
+          "x": 832,
+          "y": 320,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -224,8 +253,8 @@
           "name": "Racine",
           "persistentUuid": "22dc3ce5-90cd-44cd-93ac-101077a3dc26",
           "width": 0,
-          "x": 896,
-          "y": 640,
+          "x": 832,
+          "y": 384,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -239,8 +268,8 @@
           "name": "Racine",
           "persistentUuid": "6e582c79-c835-449d-9974-8110bb29cf40",
           "width": 0,
-          "x": 960,
-          "y": 640,
+          "x": 896,
+          "y": 384,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -254,8 +283,8 @@
           "name": "Racine",
           "persistentUuid": "d9b05f34-80f1-43ea-b2a2-99519ee8951c",
           "width": 0,
-          "x": 1024,
-          "y": 640,
+          "x": 960,
+          "y": 384,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -269,8 +298,8 @@
           "name": "Racine",
           "persistentUuid": "3c77a570-6bf1-4b24-a935-0cd7bdb8cb0a",
           "width": 0,
-          "x": 1024,
-          "y": 704,
+          "x": 960,
+          "y": 448,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -284,8 +313,8 @@
           "name": "Racine",
           "persistentUuid": "dc248f21-617c-48c9-94b9-a49ac71c7f01",
           "width": 0,
-          "x": 1024,
-          "y": 768,
+          "x": 960,
+          "y": 512,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -299,8 +328,8 @@
           "name": "Racine",
           "persistentUuid": "c67cae9a-996a-4a31-beb2-9c6176c79765",
           "width": 0,
-          "x": 896,
-          "y": 704,
+          "x": 832,
+          "y": 448,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -314,8 +343,8 @@
           "name": "Racine",
           "persistentUuid": "9ab4f6c7-6017-42bc-bbbd-6709c33cef45",
           "width": 64,
-          "x": 896,
-          "y": 768,
+          "x": 832,
+          "y": 512,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -329,8 +358,8 @@
           "name": "Racine",
           "persistentUuid": "3a6358d4-ab50-49bc-a58c-9aecb14b9008",
           "width": 0,
-          "x": 832,
-          "y": 512,
+          "x": 768,
+          "y": 256,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -344,8 +373,8 @@
           "name": "Racine",
           "persistentUuid": "fdaf45bd-c126-46ad-ba8e-4ad5df1b9fde",
           "width": 0,
-          "x": 768,
-          "y": 512,
+          "x": 704,
+          "y": 256,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -359,8 +388,8 @@
           "name": "Racine",
           "persistentUuid": "ecb744d9-36b8-447d-9ee2-7b712ee0e5bc",
           "width": 0,
-          "x": 768,
-          "y": 576,
+          "x": 704,
+          "y": 320,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -368,13 +397,28 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 256,
           "layer": "",
           "name": "Sol",
-          "persistentUuid": "b2886ffd-d17f-496c-8fda-772fa0d9f686",
-          "width": 0,
-          "x": 960,
+          "persistentUuid": "a71404d0-269a-4771-97e5-886bc9d34ae2",
+          "width": 1088,
+          "x": 896,
+          "y": 128,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 768,
+          "layer": "",
+          "name": "Sol",
+          "persistentUuid": "82ec4878-072a-4bf8-9524-2775ac00f7e7",
+          "width": 960,
+          "x": 1024,
           "y": 384,
           "zOrder": 3,
           "numberProperties": [],
@@ -383,13 +427,28 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 512,
           "layer": "",
           "name": "Sol",
-          "persistentUuid": "3c478a2f-11a8-49f8-8fd5-6e62c3692f62",
-          "width": 0,
+          "persistentUuid": "fbf9632b-2ae7-4dcb-bd9d-54914729df05",
+          "width": 64,
           "x": 960,
+          "y": 576,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 640,
+          "layer": "",
+          "name": "Sol",
+          "persistentUuid": "62d3b9ca-0b05-45d4-b57f-7a35a2932f86",
+          "width": 64,
+          "x": 896,
           "y": 448,
           "zOrder": 3,
           "numberProperties": [],
@@ -398,224 +457,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "cf735b42-efef-4fd7-8d1d-81ff9d6d5ccf",
-          "width": 0,
-          "x": 960,
-          "y": 512,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "900a43dd-c605-4cfb-8626-0105be11ef6d",
-          "width": 0,
-          "x": 960,
-          "y": 576,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "1cb54094-ae00-48a0-a780-4574f4adec2a",
-          "width": 0,
-          "x": 1024,
-          "y": 512,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "a71404d0-269a-4771-97e5-886bc9d34ae2",
-          "width": 0,
-          "x": 1024,
-          "y": 384,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "af04ae0e-5f45-48de-ac9b-08acce807679",
-          "width": 0,
-          "x": 1024,
-          "y": 576,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "184c036f-f98f-4d5a-940f-6356e5f7f453",
-          "width": 0,
-          "x": 1088,
-          "y": 640,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "6feff369-407c-4a1e-8014-48d449a9023f",
-          "width": 0,
-          "x": 1088,
-          "y": 576,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "99eba1f7-fb03-4403-9b8c-5c61aa7512b5",
-          "width": 0,
-          "x": 1088,
-          "y": 704,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "99069647-0f5c-4d5d-9bca-5dad1b3a551d",
-          "width": 0,
-          "x": 1088,
-          "y": 768,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "03a0c8a9-36dc-43ad-ba4c-eb227de60c54",
-          "width": 0,
-          "x": 1088,
-          "y": 832,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "82ec4878-072a-4bf8-9524-2775ac00f7e7",
-          "width": 0,
-          "x": 1024,
-          "y": 832,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "fbf9632b-2ae7-4dcb-bd9d-54914729df05",
-          "width": 0,
-          "x": 960,
-          "y": 832,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "98c707d4-f36e-4e6b-8cb7-f8fdf0c51898",
-          "width": 0,
-          "x": 960,
-          "y": 768,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "62d3b9ca-0b05-45d4-b57f-7a35a2932f86",
-          "width": 0,
-          "x": 960,
-          "y": 704,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 576,
           "layer": "",
           "name": "Sol",
           "persistentUuid": "997676c6-b174-4adb-a737-ba3cc06a988d",
-          "width": 0,
-          "x": 896,
-          "y": 832,
+          "width": 960,
+          "x": -64,
+          "y": 576,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -623,44 +472,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "a25cd200-f0be-4ab0-b611-1573ef71dbe3",
-          "width": 0,
-          "x": 832,
-          "y": 832,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 192,
           "layer": "",
           "name": "Sol",
           "persistentUuid": "32e24713-dce0-42fb-a2a5-cb55fa356c37",
-          "width": 0,
-          "x": 832,
-          "y": 768,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "89f2964f-cdc1-463d-8788-d8b14d868d9a",
-          "width": 0,
-          "x": 832,
-          "y": 704,
+          "width": 896,
+          "x": -64,
+          "y": 384,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -674,38 +493,8 @@
           "name": "Sol",
           "persistentUuid": "42cfb856-5779-4aa9-88a1-a744bfe33b71",
           "width": 0,
-          "x": 832,
-          "y": 576,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "5cfc88c1-bbba-49d2-a276-4ba1d52a5d3b",
-          "width": 0,
-          "x": 832,
-          "y": 640,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "f2f7884a-3dd3-4c8e-9284-b1a20fa55eb6",
-          "width": 0,
           "x": 768,
-          "y": 640,
+          "y": 320,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -713,29 +502,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "468863d5-db7a-4991-88a1-cfa5ccf11c8d",
-          "width": 0,
-          "x": 704,
-          "y": 640,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 256,
           "layer": "",
           "name": "Sol",
           "persistentUuid": "eeea3fb9-61c7-4091-9b75-ced57a9f1a78",
-          "width": 0,
-          "x": 704,
-          "y": 576,
+          "width": 768,
+          "x": -64,
+          "y": 128,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -743,74 +517,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "e6fdcb78-ea02-4e19-b84b-d4de046cf76c",
-          "width": 0,
-          "x": 704,
-          "y": 512,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "915f8cd9-75cc-4b61-807c-d5a1936cde38",
-          "width": 0,
-          "x": 704,
-          "y": 448,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "b294e22c-0861-4a93-beb0-69f7e16da583",
-          "width": 0,
-          "x": 768,
-          "y": 448,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 128,
           "layer": "",
           "name": "Sol",
           "persistentUuid": "d1f98a66-8b4c-4ae2-bb1b-cff1d79c8d1a",
-          "width": 0,
-          "x": 832,
-          "y": 448,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "50a9e1f3-914a-4bfe-871a-dbc0da59c641",
-          "width": 0,
-          "x": 832,
-          "y": 384,
+          "width": 128,
+          "x": 704,
+          "y": 128,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -828,28 +542,14 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "PixelPerfectTopDownMovement",
-              "type": "PixelPerfectMovement::PixelPerfectTopDownMovement",
-              "TopDownMovement": "TopDownMovement",
-              "PixelSize": 64,
-              "OffsetX": 0,
-              "OffsetY": 0,
-              "TargetX": 0,
-              "TargetY": 0,
-              "TargetDirectionX": 0,
-              "TargetDirectionY": 0,
-              "RoundedX": 0,
-              "RoundedY": 0
-            },
-            {
-              "acceleration": 400,
+              "acceleration": 800,
               "allowDiagonals": false,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "customIsometryAngle": 30,
-              "deceleration": 800,
-              "ignoreDefaultControls": false,
-              "maxSpeed": 200,
+              "deceleration": 1600,
+              "ignoreDefaultControls": true,
+              "maxSpeed": 2000,
               "movementAngleOffset": 0,
               "name": "TopDownMovement",
               "rotateObject": false,
@@ -885,20 +585,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 1
+                            "x": 3.380333423614502,
+                            "y": 7.45435094833374
                           },
                           {
-                            "x": 63,
-                            "y": 1
+                            "x": 57.524391174316406,
+                            "y": 6.5147576332092285
                           },
                           {
-                            "x": 63,
-                            "y": 63
+                            "x": 58.463985443115234,
+                            "y": 60.423919677734375
                           },
                           {
-                            "x": 1,
-                            "y": 63
+                            "x": 3.9675791263580322,
+                            "y": 61.246063232421875
                           }
                         ]
                       ]
@@ -980,7 +680,7 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
+              "canBeGrabbed": true,
               "name": "Platform",
               "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
@@ -989,7 +689,132 @@
           ]
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Wall",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Down"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::TopDownMovementBehavior::SetVelocityY"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                "+",
+                "50"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::TopDownMovementBehavior::SetVelocityX"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                "+",
+                "50"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Up"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::TopDownMovementBehavior::SetVelocityY"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                "-",
+                "50"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::TopDownMovementBehavior::SetVelocityX"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                "-",
+                "50"
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 0,
@@ -1015,10 +840,6 @@
         }
       ],
       "behaviorsSharedData": [
-        {
-          "name": "PixelPerfectTopDownMovement",
-          "type": "PixelPerfectMovement::PixelPerfectTopDownMovement"
-        },
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
