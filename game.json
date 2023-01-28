@@ -101,26 +101,1467 @@
         "name": "Collision",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\1goutte.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/2goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\2goutte.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/3goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\3goutte.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/4goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\4goutte.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/5goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\5goutte.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/6goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\6goutte.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/7goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\7goutte.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/8goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\8goutte.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\9goutte.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/10goutte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\10goutte.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Start.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Start",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MidDirt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\MidDirt.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_MidDirt.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\MidDirt.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_MidDirt.png22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\MidDirt.png22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MidDirt2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\MidDirt2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_MidDirt2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\MidDirt2.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BotBottom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BotBottom.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_BotBottom.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\BotBottom.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BottomDirt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BottomDirt.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_BottomDirt.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\BottomDirt.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BottomMidDirt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BottomMidDirt.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_BottomMidDirt.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\BottomMidDirt.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dirt_Grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Dirt_Grass.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Dirt_Grass.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\Dirt_Grass.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/DirtGrass2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\DirtGrass2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_DirtGrass2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\DirtGrass2.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grass3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Grass3.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\Grass3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/TopMidDirt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\TopMidDirt.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_TopMidDirt.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\TopMidDirt.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_6.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\6.png2",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
   },
-  "objects": [],
-  "objectsGroups": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "name": "Goutte",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "acceleration": 400,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "cellHeight": 10,
+          "cellWidth": 10,
+          "extraBorder": 0,
+          "gridOffsetX": 0,
+          "gridOffsetY": 0,
+          "maxSpeed": 800,
+          "name": "Pathfinding",
+          "rotateObject": false,
+          "smoothingMaxCellGap": 1,
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "acceleration": 800,
+          "allowDiagonals": false,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "customIsometryAngle": 30,
+          "deceleration": 3200,
+          "ignoreDefaultControls": false,
+          "maxSpeed": 300,
+          "movementAngleOffset": 0,
+          "name": "TopDownMovement",
+          "rotateObject": false,
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "viewpoint": "TopDown"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1.8652784824371338,
+                        "y": 4.488889694213867
+                      },
+                      {
+                        "x": 31.420835494995117,
+                        "y": 3.866666555404663
+                      },
+                      {
+                        "x": 30.843055725097656,
+                        "y": 29.91111183166504
+                      },
+                      {
+                        "x": 1.5541681051254272,
+                        "y": 29.82222557067871
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "BackgroundSky",
+      "tags": "",
+      "texture": "New image",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "name": "Nutrient",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "Grass",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\Grass3.png",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "Dirt_Grass",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\Dirt_Grass.png2",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "TopMidDirt",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\TopMidDirt.png2",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "MidDirt",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\MidDirt.png22",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "cost": 2,
+          "impassable": true,
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "MidDirt2",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\MidDirt2.png2",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "BottomMidDirt",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\BottomMidDirt.png2",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "Bottom",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\6.png2",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "BottomDirt",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\BottomDirt.png2",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 64,
+      "leftMargin": 0,
+      "name": "BotBottom",
+      "rightMargin": 0,
+      "tags": "",
+      "texture": "assets\\BotBottom.png2",
+      "tiled": true,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 64,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+          "cost": 2,
+          "impassable": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Racine",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Racine",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Racine",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Pesticide",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9.020833969116211,
+                        "y": 9.555556297302246
+                      },
+                      {
+                        "x": 20.265281677246094,
+                        "y": 9.822222709655762
+                      },
+                      {
+                        "x": 20.354167938232422,
+                        "y": 23.555559158325195
+                      },
+                      {
+                        "x": 9.287501335144043,
+                        "y": 23.511112213134766
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Score",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Score :",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Start",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Start",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Start",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 32.71111297607422
+                      },
+                      {
+                        "x": 0.17500272393226624,
+                        "y": 32.888893127441406
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Sun",
+      "tags": "",
+      "type": "Lighting::LightObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "radius": 1000,
+        "color": "255;255;255",
+        "debugMode": false,
+        "texture": ""
+      }
+    }
+  ],
+  "objectsGroups": [
+    {
+      "name": "Wall",
+      "objects": [
+        {
+          "name": "MidDirt"
+        },
+        {
+          "name": "Grass"
+        },
+        {
+          "name": "Dirt_Grass"
+        },
+        {
+          "name": "TopMidDirt"
+        },
+        {
+          "name": "MidDirt2"
+        },
+        {
+          "name": "BottomMidDirt"
+        },
+        {
+          "name": "BottomDirt"
+        },
+        {
+          "name": "BotBottom"
+        },
+        {
+          "name": "Bottom"
+        }
+      ]
+    },
+    {
+      "name": "Player",
+      "objects": [
+        {
+          "name": "Goutte"
+        }
+      ]
+    },
+    {
+      "name": "Obstacle",
+      "objects": [
+        {
+          "name": "Pesticide"
+        }
+      ]
+    },
+    {
+      "name": "Exit",
+      "objects": [
+        {
+          "name": "Nutrient"
+        }
+      ]
+    }
+  ],
   "variables": [],
   "layouts": [
     {
       "b": 29,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Niveau1",
-      "name": "Niveau1",
+      "mangledName": "Level1",
+      "name": "Level1",
       "r": 36,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 29,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 64,
         "gridHeight": 64,
@@ -128,48 +1569,13 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.7614496330199841,
+        "snap": false,
+        "zoomFactor": 0.2692130995202179,
         "windowMask": false
       },
-      "objectsGroups": [
-        {
-          "name": "Player",
-          "objects": [
-            {
-              "name": "Goutte"
-            }
-          ]
-        },
-        {
-          "name": "Wall",
-          "objects": [
-            {
-              "name": "Sol"
-            },
-            {
-              "name": "BackgroundSky"
-            }
-          ]
-        }
-      ],
+      "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "name": "Goutte",
-          "persistentUuid": "509cc45c-5332-49f7-aef6-8cc7b5269b7f",
-          "width": 64,
-          "x": 832,
-          "y": 128,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
@@ -177,8 +1583,8 @@
           "layer": "",
           "name": "BackgroundSky",
           "persistentUuid": "bd827ef7-0ee3-474c-a63f-83c65f4bf6e8",
-          "width": 2376,
-          "x": -392,
+          "width": 2000,
+          "x": -16,
           "y": -618,
           "zOrder": 0,
           "numberProperties": [],
@@ -398,87 +1804,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 256,
+          "height": 64,
           "layer": "",
-          "name": "Sol",
+          "name": "MidDirt",
           "persistentUuid": "a71404d0-269a-4771-97e5-886bc9d34ae2",
-          "width": 1088,
-          "x": 896,
-          "y": 128,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 768,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "82ec4878-072a-4bf8-9524-2775ac00f7e7",
-          "width": 960,
-          "x": 1024,
-          "y": 384,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 512,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "fbf9632b-2ae7-4dcb-bd9d-54914729df05",
-          "width": 64,
-          "x": 960,
-          "y": 576,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 640,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "62d3b9ca-0b05-45d4-b57f-7a35a2932f86",
-          "width": 64,
-          "x": 896,
-          "y": 448,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 576,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "997676c6-b174-4adb-a737-ba3cc06a988d",
-          "width": 960,
-          "x": -64,
-          "y": 576,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 192,
-          "layer": "",
-          "name": "Sol",
-          "persistentUuid": "32e24713-dce0-42fb-a2a5-cb55fa356c37",
           "width": 896,
-          "x": -64,
+          "x": 1024,
           "y": 384,
           "zOrder": 3,
           "numberProperties": [],
@@ -490,12 +1821,42 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "Sol",
-          "persistentUuid": "42cfb856-5779-4aa9-88a1-a744bfe33b71",
+          "name": "Goutte",
+          "persistentUuid": "1f37d5eb-f002-402d-9888-e258e04c051b",
           "width": 0,
-          "x": 768,
-          "y": 320,
-          "zOrder": 3,
+          "x": 847,
+          "y": 132,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Nutrient",
+          "persistentUuid": "c0fa219d-ea24-4d85-92ff-47f27d1bddf3",
+          "width": 0,
+          "x": 992,
+          "y": 544,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Score",
+          "persistentUuid": "2b757798-cee7-42da-b098-25ec296abe2d",
+          "width": 0,
+          "x": 320,
+          "y": 64,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -503,13 +1864,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 256,
+          "height": 64,
           "layer": "",
-          "name": "Sol",
-          "persistentUuid": "eeea3fb9-61c7-4091-9b75-ced57a9f1a78",
-          "width": 768,
-          "x": -64,
-          "y": 128,
+          "name": "Start",
+          "persistentUuid": "4ac84bd2-1eb3-4e42-9898-b1089cd0920f",
+          "width": 64,
+          "x": 832,
+          "y": 64,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -520,175 +1881,1838 @@
           "customSize": true,
           "height": 128,
           "layer": "",
-          "name": "Sol",
-          "persistentUuid": "d1f98a66-8b4c-4ae2-bb1b-cff1d79c8d1a",
+          "name": "MidDirt2",
+          "persistentUuid": "e4a49a27-4048-4236-a90e-be00d02d718d",
+          "width": 832,
+          "x": 0,
+          "y": 448,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 320,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "1f418c02-1ef3-4073-853b-08a63fd5d044",
+          "width": 2048,
+          "x": -64,
+          "y": 768,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Dirt_Grass",
+          "persistentUuid": "cdb3ea25-f0b8-4b0e-ab6f-b0b0d5959ff7",
+          "width": 1024,
+          "x": 896,
+          "y": 128,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Dirt_Grass",
+          "persistentUuid": "b8eac251-1ffd-4118-90e5-036a4998be1f",
+          "width": 832,
+          "x": 0,
+          "y": 128,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Grass",
+          "persistentUuid": "a5605558-2c5e-473e-a9da-08cdf0a596a9",
+          "width": 1024,
+          "x": 896,
+          "y": 64,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Grass",
+          "persistentUuid": "41f51bba-b156-40ae-a6d2-787a30e0d181",
+          "width": 832,
+          "x": 0,
+          "y": 64,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomDirt",
+          "persistentUuid": "b0e358f0-22d8-4f20-b3fb-c824bdef3f8c",
+          "width": 2048,
+          "x": -64,
+          "y": 704,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomMidDirt",
+          "persistentUuid": "514b0bff-b7e0-44f2-8334-e05532cb25db",
+          "width": 2048,
+          "x": -64,
+          "y": 576,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "TopMidDirt",
+          "persistentUuid": "ca13da6b-7970-41fe-ac0f-ed276d51a2de",
+          "width": 1024,
+          "x": 896,
+          "y": 192,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "TopMidDirt",
+          "persistentUuid": "f5e9d897-8b13-4a89-84e8-6eaaa38e9f25",
+          "width": 704,
+          "x": 0,
+          "y": 192,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "TopMidDirt",
+          "persistentUuid": "86b4697c-fe96-4f9e-8a1a-289030617ea8",
+          "width": 0,
+          "x": 768,
+          "y": 320,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "TopMidDirt",
+          "persistentUuid": "09794221-bc19-41c6-abc6-f5ea3c4d93ea",
           "width": 128,
           "x": 704,
-          "y": 128,
-          "zOrder": 3,
+          "y": 192,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "MidDirt",
+          "persistentUuid": "13df8ca8-51b4-41b0-896f-6a590cfbaf20",
+          "width": 832,
+          "x": 0,
+          "y": 384,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "MidDirt2",
+          "persistentUuid": "6970c1ea-d888-488f-85c9-16c7b6eb268f",
+          "width": 896,
+          "x": 1024,
+          "y": 448,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "MidDirt2",
+          "persistentUuid": "acddffc3-53f3-4b7c-840d-8395d3403d7b",
+          "width": 64,
+          "x": 896,
+          "y": 448,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "65d57b4d-91b5-4527-99e6-498a344a52d0",
+          "width": 1984,
+          "x": 0,
+          "y": 640,
+          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
       ],
-      "objects": [
+      "objects": [],
+      "events": [
         {
-          "assetStoreId": "",
-          "name": "Goutte",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
             {
-              "acceleration": 800,
-              "allowDiagonals": false,
-              "angleOffset": 0,
-              "angularMaxSpeed": 180,
-              "customIsometryAngle": 30,
-              "deceleration": 1600,
-              "ignoreDefaultControls": true,
-              "maxSpeed": 2000,
-              "movementAngleOffset": 0,
-              "name": "TopDownMovement",
-              "rotateObject": false,
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
-              "viewpoint": "TopDown"
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Start"
+              ]
             }
-          ],
-          "animations": [
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "LevelEvents"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "La goutte a atteind le nutriment",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Si le joueur atteind le nutriment, supprimer le nutriment et ignorer les controls du joueur",
+              "comment2": ""
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Nutrient",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Nutrient",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                  },
+                  "parameters": [
+                    "Goutte",
+                    "TopDownMovement",
+                    "yes"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "La goutte remonte la racine",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
                       },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PathfindingBehavior::SetDestination"
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3.380333423614502,
-                            "y": 7.45435094833374
-                          },
-                          {
-                            "x": 57.524391174316406,
-                            "y": 6.5147576332092285
-                          },
-                          {
-                            "x": 58.463985443115234,
-                            "y": 60.423919677734375
-                          },
-                          {
-                            "x": 3.9675791263580322,
-                            "y": 61.246063232421875
-                          }
-                        ]
+                      "parameters": [
+                        "Goutte",
+                        "Pathfinding",
+                        "",
+                        "847",
+                        "79"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Arreter"
+                      },
+                      "parameters": [
+                        "Goutte"
                       ]
                     }
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "BackgroundSky",
-          "tags": "",
-          "texture": "New image",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "name": "Racine",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
+            },
             {
-              "name": "Racine",
-              "useMultipleDirections": false,
-              "directions": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Racine",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Goutte",
+                    "Start",
+                    "=",
+                    "0",
+                    ""
                   ]
                 }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level2\"",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 8079008,
+          "ambientLightColorR": 16,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 8473072,
+          "ambientLightColorG": 6062976,
+          "ambientLightColorR": 8717424,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Level2",
+      "name": "Level2",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 64,
+        "gridHeight": 64,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 0.4151833564217098,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "BackgroundSky",
+          "persistentUuid": "7e9ea3bb-7bdd-4460-9515-f3cc1c160fb5",
+          "width": 2042,
+          "x": -58,
+          "y": -64,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "0632c6bc-78e6-4826-bcf2-0246c09985ec",
+          "width": 64,
+          "x": 896,
+          "y": 128,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "3b26229e-8583-4655-be08-58334e4e1fa9",
+          "width": 192,
+          "x": 960,
+          "y": 256,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 512,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "9faef06b-34b2-4001-8361-34b3486fddb0",
+          "width": 64,
+          "x": 1088,
+          "y": 320,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "e4fad62d-23e9-4063-ad7a-567faacef024",
+          "width": 0,
+          "x": 960,
+          "y": 320,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "dbc2dded-66ea-406a-8ffc-a7b7f92d75d1",
+          "width": 0,
+          "x": 512,
+          "y": 384,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "9abecac9-80b1-4f01-b0f8-0c5128dfa829",
+          "width": 448,
+          "x": 576,
+          "y": 384,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 384,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "1d5186a9-6f1b-483f-bb35-10b4d6056e0e",
+          "width": 64,
+          "x": 832,
+          "y": 448,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 576,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "242c98cb-5a83-4809-b2c9-acc56fcb4f10",
+          "width": 64,
+          "x": 512,
+          "y": 448,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "7e830b43-e3c4-4ceb-9111-8ed03864d0a0",
+          "width": 192,
+          "x": 704,
+          "y": 576,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 320,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "6903ee68-3a28-4437-890b-d4c24639c62e",
+          "width": 64,
+          "x": 704,
+          "y": 640,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "64e2e820-7ebf-4c1b-a8e8-38ec214af9aa",
+          "width": 128,
+          "x": 960,
+          "y": 640,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "93771328-7d3c-43ac-b46e-6849d387db27",
+          "width": 256,
+          "x": 1152,
+          "y": 576,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 320,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "ffeae8b1-028b-4654-adaa-58e41f239993",
+          "width": 64,
+          "x": 1344,
+          "y": 640,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Nutrient",
+          "persistentUuid": "eb8c783a-a644-4971-b0aa-eb06db6fa17e",
+          "width": 0,
+          "x": 736,
+          "y": 928,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Goutte",
+          "persistentUuid": "49401801-3f28-4fa9-b600-ff9267eb458e",
+          "width": 0,
+          "x": 896,
+          "y": 128,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "bfb7f0c1-3da4-4bce-b49f-6dcdc530bf5a",
+          "width": 0,
+          "x": 832,
+          "y": 128,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "30402e81-c739-47f8-b43c-2ecd72aed103",
+          "width": 0,
+          "x": 832,
+          "y": 192,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "77fe9215-93cd-458f-ada8-46914458cfc7",
+          "width": 0,
+          "x": 832,
+          "y": 256,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Racine",
+          "persistentUuid": "ddfaa131-56a4-4fe2-a1ee-c7e9e03267e6",
+          "width": 0,
+          "x": 960,
+          "y": 192,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Pesticide",
+          "persistentUuid": "b5a1cd08-c18b-4000-963b-fce49d203e5d",
+          "width": 0,
+          "x": 832,
+          "y": 576,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Score",
+          "persistentUuid": "e8a2d451-0b95-4d6c-bdad-ea4dc5f472f0",
+          "width": 0,
+          "x": 320,
+          "y": 64,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Nutrient",
+          "persistentUuid": "36204c18-b2b6-499c-b6da-81a9edb01922",
+          "width": 0,
+          "x": 1120,
+          "y": 800,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Nutrient",
+          "persistentUuid": "d39d22a5-3b41-4ca8-8107-7dda6287b8f5",
+          "width": 0,
+          "x": 1376,
+          "y": 928,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Pesticide",
+          "persistentUuid": "a766840e-8156-4096-b2ce-73f0cf3222df",
+          "width": 0,
+          "x": 1120,
+          "y": 608,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Pesticide",
+          "persistentUuid": "be3cee6d-3ead-4097-9ba6-c724f56a31d3",
+          "width": 0,
+          "x": 1088,
+          "y": 448,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Pesticide",
+          "persistentUuid": "0f99c7a6-ad1e-4e5e-af8e-7de7a755ff0b",
+          "width": 0,
+          "x": 1376,
+          "y": 704,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Dirt_Grass",
+          "persistentUuid": "27dfbe0c-1629-4cdb-b24d-74f43de87ff4",
+          "width": 960,
+          "x": 960,
+          "y": 128,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Dirt_Grass",
+          "persistentUuid": "d93a1231-a7a6-4ab2-99d7-8599d851d1f5",
+          "width": 832,
+          "x": 0,
+          "y": 128,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Grass",
+          "persistentUuid": "7575ff1b-ac70-45a3-83b2-1222cb969b54",
+          "width": 960,
+          "x": 960,
+          "y": 64,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Grass",
+          "persistentUuid": "361c9494-1197-4ea3-816b-5bec0cb2026e",
+          "width": 832,
+          "x": 0,
+          "y": 64,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "MidDirt",
+          "persistentUuid": "f3276a13-a96f-4f93-baea-d7e0437044e2",
+          "width": 896,
+          "x": 1152,
+          "y": 320,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "TopMidDirt",
+          "persistentUuid": "28a38d5f-be04-4539-b482-706b427e1677",
+          "width": 896,
+          "x": 1024,
+          "y": 192,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "TopMidDirt",
+          "persistentUuid": "ceaee04b-dbb0-40c2-b108-aaf9b24ee286",
+          "width": 768,
+          "x": 1152,
+          "y": 256,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "TopMidDirt",
+          "persistentUuid": "c61fc599-85c4-47fd-af7e-6ea64f738a4f",
+          "width": 832,
+          "x": 0,
+          "y": 192,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "MidDirt",
+          "persistentUuid": "878e672a-4732-4462-916b-9a032a98f78b",
+          "width": 960,
+          "x": 0,
+          "y": 320,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "MidDirt2",
+          "persistentUuid": "7d4143c6-f2f0-450d-a650-6be345faa174",
+          "width": 512,
+          "x": 0,
+          "y": 384,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomMidDirt",
+          "persistentUuid": "b68bb747-da9d-402f-a582-c086bfee6c49",
+          "width": 512,
+          "x": 0,
+          "y": 576,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "19cdece9-fba3-4bf8-adaa-f5b287335f6a",
+          "width": 512,
+          "x": 0,
+          "y": 640,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomDirt",
+          "persistentUuid": "1d4eb499-3468-47dd-b5af-8e5c625de823",
+          "width": 512,
+          "x": 0,
+          "y": 768,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 256,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "2a0c971b-3731-4665-8f50-d1a87fe1faf0",
+          "width": 512,
+          "x": 0,
+          "y": 832,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "MidDirt2",
+          "persistentUuid": "647fec5d-1af6-40d2-98ff-d2e0dff40265",
+          "width": 768,
+          "x": 1152,
+          "y": 384,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "MidDirt",
+          "persistentUuid": "7ba2f313-bd8b-4915-b906-bc55c09937a4",
+          "width": 0,
+          "x": 1024,
+          "y": 320,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomMidDirt",
+          "persistentUuid": "a7027040-ef6b-41d6-a248-35def00b25f3",
+          "width": 128,
+          "x": 576,
+          "y": 576,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomMidDirt",
+          "persistentUuid": "85a6d12c-6585-479b-83a1-928f2df9cc1f",
+          "width": 192,
+          "x": 896,
+          "y": 576,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomMidDirt",
+          "persistentUuid": "476a8840-a309-455a-b942-604a0430b3a4",
+          "width": 512,
+          "x": 1408,
+          "y": 576,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "MidDirt2",
+          "persistentUuid": "dda9dd57-6aa0-4a01-a44b-baaf8fbd2ef6",
+          "width": 64,
+          "x": 1024,
+          "y": 384,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "MidDirt2",
+          "persistentUuid": "bd61e3c3-399b-401d-95d3-ff5d00487453",
+          "width": 128,
+          "x": 896,
+          "y": 448,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "MidDirt2",
+          "persistentUuid": "3ce4ea48-bd08-42d6-a625-0330584e3570",
+          "width": 256,
+          "x": 576,
+          "y": 448,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "c65499c3-e6b8-446f-a29c-f234a8f79864",
+          "width": 128,
+          "x": 576,
+          "y": 640,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "c109c910-18b8-4da6-9eea-4bc3232bf33b",
+          "width": 64,
+          "x": 768,
+          "y": 640,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "22867fe7-72a8-4cec-9e09-2b971c737fa3",
+          "width": 64,
+          "x": 896,
+          "y": 640,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "c5d202a9-45f3-4430-bf9a-ca58ae98cf2f",
+          "width": 128,
+          "x": 960,
+          "y": 704,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "23c8d4da-01ec-4621-8631-fca4912d2487",
+          "width": 192,
+          "x": 1152,
+          "y": 640,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Bottom",
+          "persistentUuid": "eee14c54-4794-4574-b5a4-17d4b9f07b95",
+          "width": 512,
+          "x": 1408,
+          "y": 640,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomDirt",
+          "persistentUuid": "8176e6aa-3664-4876-8a73-f0dd5bc7aeda",
+          "width": 128,
+          "x": 576,
+          "y": 768,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 434,
+          "layer": "Lighting",
+          "name": "Sun",
+          "persistentUuid": "6890ef94-ccae-437e-aee9-8fb519bebfb7",
+          "width": 434,
+          "x": 950,
+          "y": -202,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Lighting",
+          "name": "Sun",
+          "persistentUuid": "41074872-afff-488c-85b9-f05175b2ffb4",
+          "width": 0,
+          "x": 1896,
+          "y": -216,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Lighting",
+          "name": "Sun",
+          "persistentUuid": "c15f63bf-056b-4f51-ad15-2e2427de3467",
+          "width": 0,
+          "x": 24,
+          "y": -296,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "28439296-bdfb-4e03-a50a-4c6e76bf1788",
+          "width": 1408,
+          "x": 512,
+          "y": 1024,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BottomDirt",
+          "persistentUuid": "3c3ca79f-5f36-437d-af9f-ab83eb8c12b0",
+          "width": 0,
+          "x": 768,
+          "y": 768,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomDirt",
+          "persistentUuid": "33c86196-e19c-459b-bc8b-7a9d9790f203",
+          "width": 192,
+          "x": 896,
+          "y": 768,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomDirt",
+          "persistentUuid": "a8eae47f-7d6e-45ba-863a-d6561966da31",
+          "width": 192,
+          "x": 1152,
+          "y": 768,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "BottomDirt",
+          "persistentUuid": "907d2a66-1624-452a-9015-fd0e956d9b4e",
+          "width": 512,
+          "x": 1408,
+          "y": 768,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "6c020c53-ca49-450f-bc4e-4825e8323512",
+          "width": 512,
+          "x": 1408,
+          "y": 832,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "15114f26-fe09-47da-831c-a2a0ef5ab5cd",
+          "width": 0,
+          "x": 1344,
+          "y": 960,
+          "zOrder": 84,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "1052927b-e9de-429e-afb6-085ea3201d82",
+          "width": 576,
+          "x": 768,
+          "y": 832,
+          "zOrder": 85,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "ee843c67-da02-471d-870e-d515b32f1762",
+          "width": 0,
+          "x": 704,
+          "y": 960,
+          "zOrder": 86,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "",
+          "name": "BotBottom",
+          "persistentUuid": "4cdecb96-bd44-4a65-b275-f4acfebad94f",
+          "width": 128,
+          "x": 576,
+          "y": 832,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "LevelEvents"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                ""
               ]
             }
           ]
         },
         {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 64,
-          "leftMargin": 0,
-          "name": "Sol",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "New image2",
-          "tiled": true,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 64,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
+              "type": {
+                "value": "TopDownMovementBehavior::IsMoving"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Obstacle"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Goutte",
+                "Nutrient",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Nutrient",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level3\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Goutte",
+                "Pesticide",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Goutte"
+              ]
+            },
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Obstacle",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level2\"",
+                ""
+              ]
             }
           ]
         }
       ],
+      "layers": [
+        {
+          "ambientLightColorB": 7787504,
+          "ambientLightColorG": 150995054,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 128,
+          "ambientLightColorG": 128,
+          "ambientLightColorR": 128,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Level3",
+      "name": "Level3",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.3645833333333333,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "DrawPathfinding",
+          "type": "DrawPathfinding::DrawPathfinding"
+        },
+        {
+          "name": "PixelPerfectTopDownMovement",
+          "type": "PixelPerfectMovement::PixelPerfectTopDownMovement"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
+    }
+  ],
+  "externalEvents": [
+    {
+      "associatedLayout": "Level1",
+      "lastChangeTimeStamp": 0,
+      "name": "LevelEvents",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -707,6 +3731,7 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -734,6 +3759,7 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -761,6 +3787,7 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -788,6 +3815,7 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -813,100 +3841,425 @@
               ]
             }
           ]
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 0,
-          "ambientLightColorG": 8079008,
-          "ambientLightColorR": 16,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
         },
         {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "Niveau2",
-      "name": "Niveau2",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.3645833333333333,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [],
-      "objects": [],
-      "events": [],
-      "layers": [
-        {
-          "ambientLightColorB": 7787504,
-          "ambientLightColorG": 150995054,
-          "ambientLightColorR": 1869182049,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Goutte",
+                "Nutrient",
+                "",
+                "",
+                ""
+              ]
             }
           ],
-          "effects": []
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Nutrient",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::IsMoving"
+              },
+              "parameters": [
+                "Goutte",
+                "TopDownMovement"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Pesticide"
+              ]
+            }
+          ]
         }
-      ],
-      "behaviorsSharedData": []
+      ]
     }
   ],
-  "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "Entropy",
+      "category": "Advanced",
+      "extensionNamespace": "",
+      "fullName": "Pathfinding painter",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXJlc2lzdG9yLW5vZGVzIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIsMTFIMy42N0M0LjA4LDkuODMgNS4xOSw5IDYuNSw5QTMsMyAwIDAsMSA5LjUsMTJDOS41LDEyLjY1IDkuMjksMTMuMjUgOC45NCwxMy43NEwxMC4wNywxNS4zNUwxMy4xMSw0TDE0LjYxLDYuMTNMMTYuNyw5LjExTDE3LjUsOUMxOC44MSw5IDE5LjkyLDkuODMgMjAuMzMsMTFIMjJWMTNIMjAuMzNDMTkuOTIsMTQuMTcgMTguODEsMTUgMTcuNSwxNUEzLDMgMCAwLDEgMTQuNSwxMkMxNC41LDExLjM1IDE0LjcxLDEwLjc1IDE1LjA2LDEwLjI2TDEzLjkzLDguNjVMMTAuODksMjBMNy4zLDE0Ljg5QzcuMDUsMTQuOTYgNi43OCwxNSA2LjUsMTVDNS4xOSwxNSA0LjA4LDE0LjE3IDMuNjcsMTNIMlYxMU0xNy41LDEwLjVBMS41LDEuNSAwIDAsMCAxNiwxMkExLjUsMS41IDAgMCwwIDE3LjUsMTMuNUExLjUsMS41IDAgMCwwIDE5LDEyQTEuNSwxLjUgMCAwLDAgMTcuNSwxMC41TTYuNSwxMC41QTEuNSwxLjUgMCAwLDAgNSwxMkExLjUsMS41IDAgMCwwIDYuNSwxMy41QTEuNSwxLjUgMCAwLDAgOCwxMkExLjUsMS41IDAgMCwwIDYuNSwxMC41WiIgLz48L3N2Zz4=",
+      "name": "DrawPathfinding",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/resistor-nodes.svg",
+      "shortDescription": "Draw the pathfinding of an object using a shape painter.",
+      "version": "0.1.3",
+      "description": "Draw the path followed by an object using a shape painter.",
+      "origin": {
+        "identifier": "DrawPathfinding",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "pathfinding",
+        "debug",
+        "shape painter",
+        "draw"
+      ],
+      "authorIds": [
+        "q8ubdigLvIRXLxsJDDTaokO41mc2"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Draw the path followed by the object using a shape painter.",
+          "fullName": "Pathfinding painter",
+          "name": "DrawPathfinding",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "description": "Draw the path followed by the object using a shape painter. It automatically creates an instance of the shape painter object if there is none.",
+              "fullName": "Draw pathfinding",
+              "functionType": "Action",
+              "name": "DrawPathfinding",
+              "sentence": "Draw the path followed by _PARAM0_ using _PARAM3_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Create the shape painter if one doesn't exist",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NbObjet"
+                      },
+                      "parameters": [
+                        "ShapePainterObject",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "ShapePainterObject",
+                        "0",
+                        "0",
+                        "Object.Layer()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "ShapePainterObject",
+                        "=",
+                        "Object.ZOrder()-1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Enforce absolute coordinates",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::AreCoordinatesRelative"
+                      },
+                      "parameters": [
+                        "ShapePainterObject"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::UseRelativeCoordinates"
+                      },
+                      "parameters": [
+                        "ShapePainterObject",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Reset counter",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "DrawPathfinding::DrawPathfinding::SetPropertyLoopIndex"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Draw path",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Repeat",
+                  "repeatExpression": "Object.PathfindingBehavior::NodeCount()",
+                  "conditions": [],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Draw circles on each node",
+                      "comment2": ""
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "DrawPathfinding::DrawPathfinding::PropertyLoopIndex"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "<=",
+                            "Object.PathfindingBehavior::NodeCount()-1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PrimitiveDrawing::Circle"
+                          },
+                          "parameters": [
+                            "ShapePainterObject",
+                            "Object.PathfindingBehavior::GetNodeX(Object.Behavior::PropertyLoopIndex())",
+                            "Object.PathfindingBehavior::GetNodeY(Object.Behavior::PropertyLoopIndex())",
+                            "3"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Draw lines between nodes",
+                      "comment2": ""
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "DrawPathfinding::DrawPathfinding::PropertyLoopIndex"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "<",
+                            "Object.PathfindingBehavior::NodeCount()-1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PrimitiveDrawing::LineV2"
+                          },
+                          "parameters": [
+                            "ShapePainterObject",
+                            "Object.PathfindingBehavior::GetNodeX(Object.Behavior::PropertyLoopIndex())",
+                            "Object.PathfindingBehavior::GetNodeY(Object.Behavior::PropertyLoopIndex())",
+                            "Object.PathfindingBehavior::GetNodeX(Object.Behavior::PropertyLoopIndex() +1)",
+                            "Object.PathfindingBehavior::GetNodeY(Object.Behavior::PropertyLoopIndex()+1)",
+                            "3"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "DrawPathfinding::DrawPathfinding::SetPropertyLoopIndex"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "+",
+                            "1"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DrawPathfinding::DrawPathfinding",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Pathfinding behavior",
+                  "name": "PathfindingBehavior",
+                  "supplementaryInformation": "PathfindingBehavior::PathfindingBehavior",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Shape painter used to draw the path",
+                  "name": "ShapePainterObject",
+                  "supplementaryInformation": "PrimitiveDrawing::Drawer",
+                  "type": "objectList"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "LoopIndex",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "LoopIndex"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "CorrectionX"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "CorrectionY"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "@4ian, Tristan Rhodes (https://victrisgames.itch.io/)",
       "category": "Movement",
