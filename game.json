@@ -425,6 +425,132 @@
         "name": "assets\\Dirt_07.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BigRock_TopLeft.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/BigRock_TopLeft.png\",\"extension\":\".png\"}",
+        "name": "assets\\BigRock_TopLeft.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BigRock_TopRigh.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BigRock_TopRigh.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_BigRock_TopRigh.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\BigRock_TopRigh.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite35",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_BigRock_TopLeft.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_BigRock_TopLeft.png2.png\"}",
+        "name": "assets\\BigRock_TopLeft.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BigRock_BotLeft.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/BigRock_BotLeft.png\",\"extension\":\".png\"}",
+        "name": "assets\\BigRock_BotLeft.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BigRock_BotRight.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/BigRock_BotRight.png\",\"extension\":\".png\"}",
+        "name": "assets\\BigRock_BotRight.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MediumRock.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\MediumRock.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MediumRock - Copie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\MediumRock - Copie.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_MediumRock - Copie.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\MediumRock - Copie.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MediumRock_TopRight.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/MediumRock_TopRight.png\",\"extension\":\".png\"}",
+        "name": "assets\\MediumRock_TopRight.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MediumRock_BotRight.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/MediumRock_BotRight.png\",\"extension\":\".png\"}",
+        "name": "assets\\MediumRock_BotRight.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MediumRock_BotLeft.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/MediumRock_BotLeft.png\",\"extension\":\".png\"}",
+        "name": "assets\\MediumRock_BotLeft.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -453,7 +579,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8671301880228042,
+        "zoomFactor": 0.5622643634299677,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7034,27 +7160,57 @@
           "customSize": true,
           "height": 64,
           "layer": "",
-          "name": "NewSprite3",
-          "persistentUuid": "133ff1ae-342c-4a37-a919-2ba0a683c17e",
-          "width": 64,
-          "x": 1472,
-          "y": 256,
-          "zOrder": 15,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
           "name": "NewSprite2",
           "persistentUuid": "57701105-2eaa-4277-a38e-5eb056f4f36d",
           "width": 1920,
           "x": 0,
           "y": 768,
           "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "30903485-caea-41e6-8265-c6ec751e45f2",
+          "width": 0,
+          "x": 1984,
+          "y": 64,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite7",
+          "persistentUuid": "f06c513e-3ae4-4be7-a563-7c541740f8e7",
+          "width": 0,
+          "x": 1920,
+          "y": 64,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite4",
+          "persistentUuid": "f075aaee-2995-461d-9401-9dfc0d18a7e5",
+          "width": 0,
+          "x": 2048,
+          "y": 64,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7492,7 +7648,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite3",
+              "name": "assets\\MediumRock - Copie.png",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -7502,7 +7658,89 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
+                      "image": "assets\\MediumRock - Copie.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite7",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
                       "image": "assets\\BigRock.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\MediumRock.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
