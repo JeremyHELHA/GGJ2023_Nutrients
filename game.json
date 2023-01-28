@@ -227,6 +227,168 @@
         "name": "NewSprite13",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image322.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image322",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pointeRoof.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\pointeRoof.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/interRoof3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "interRoof3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainRoof3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\mainRoof3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/T_Roof2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "T_Roof2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/edgeRoof.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\edgeRoof.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite19.png\"}",
+        "name": "NewSprite19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainRoof2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\mainRoof2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainRoof22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mainRoof2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainRoof.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\mainRoof.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mainRoof4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mainRoof",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -255,7 +417,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8671301880228082,
+        "zoomFactor": 1.0768523980808689,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -965,6 +1127,36 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "leaf",
+          "persistentUuid": "25694fe9-4d42-4746-a25d-2886c5faa88e",
+          "width": 64,
+          "x": 832,
+          "y": 256,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "cristaux",
+          "persistentUuid": "563f34d1-91e0-497c-9947-4b6974cd40b3",
+          "width": 0,
+          "x": 640,
+          "y": 384,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -976,10 +1168,18 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "mainRoof",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -989,7 +1189,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite2",
+                      "image": "mainRoof",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1021,7 +1221,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "mainRoof2",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1031,7 +1231,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite4",
+                      "image": "mainRoof2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1063,7 +1263,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "edgeRoof",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1073,7 +1273,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite8",
+                      "image": "NewSprite19",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1115,7 +1315,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "T_Roof",
+                      "image": "T_Roof2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1147,7 +1347,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "mainRoof3",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1157,7 +1357,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite9",
+                      "image": "NewSprite18",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1199,7 +1399,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "interRoof2",
+                      "image": "interRoof3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1231,7 +1431,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "pointeRoof",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1241,7 +1441,91 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite13",
+                      "image": "NewSprite17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "leaf",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "leaf",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "cristaux",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "cristaux",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1288,7 +1572,12 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
