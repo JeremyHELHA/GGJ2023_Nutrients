@@ -23,7 +23,7 @@
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\leilu\\OneDrive\\Documents\\GitHub\\GGJ2023_Nutrients\\release02",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -3576,7 +3576,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5622643634299611,
+        "zoomFactor": 0.3975809442008631,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6757,7 +6757,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                "3"
               ]
             },
             {
@@ -6793,6 +6793,14 @@
             },
             {
               "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Obstacle"
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
@@ -6806,14 +6814,6 @@
               "parameters": [
                 "Go",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "Obstacle"
               ]
             }
           ]
@@ -8635,22 +8635,22 @@
           "actions": [
             {
               "type": {
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "Retries",
-                "=",
-                "\"Attempts: \" + ToString(GlobalVariable(Attempts))"
-              ]
-            },
-            {
-              "type": {
                 "value": "ModVarGlobal"
               },
               "parameters": [
                 "Attempts",
                 "+",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Retries",
+                "=",
+                "\"Attempts: \" + ToString(GlobalVariable(Attempts))"
               ]
             },
             {
@@ -8688,7 +8688,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                "3"
               ]
             },
             {
@@ -11435,22 +11435,22 @@
           "actions": [
             {
               "type": {
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "Retries",
-                "=",
-                "\"Attempts: \" + ToString(GlobalVariable(Attempts))"
-              ]
-            },
-            {
-              "type": {
                 "value": "ModVarGlobal"
               },
               "parameters": [
                 "Attempts",
                 "+",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Retries",
+                "=",
+                "\"Attempts: \" + ToString(GlobalVariable(Attempts))"
               ]
             },
             {
@@ -11488,7 +11488,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                "3"
               ]
             },
             {
@@ -15809,22 +15809,22 @@
           "actions": [
             {
               "type": {
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "Retries",
-                "=",
-                "\"Attempts: \" + ToString(GlobalVariable(Attempts))"
-              ]
-            },
-            {
-              "type": {
                 "value": "ModVarGlobal"
               },
               "parameters": [
                 "Attempts",
                 "+",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Retries",
+                "=",
+                "\"Attempts: \" + ToString(GlobalVariable(Attempts))"
               ]
             },
             {
@@ -15862,7 +15862,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                "4"
               ]
             },
             {
@@ -15898,6 +15898,14 @@
             },
             {
               "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Obstacle"
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
@@ -15911,14 +15919,6 @@
               "parameters": [
                 "Go",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "Obstacle"
               ]
             }
           ]
