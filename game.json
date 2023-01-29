@@ -1511,6 +1511,60 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_mort1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_mort1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_mort2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_mort2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_mort3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_mort3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_mort4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_mort4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_mort5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_mort5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_mort6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_mort6.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1540,6 +1594,16 @@
           "maxSpeed": 800,
           "rotateObject": false,
           "smoothingMaxCellGap": 1
+        },
+        {
+          "name": "TopDownGamepadMapper",
+          "type": "Gamepads::TopDownGamepadMapper",
+          "TopDownMovement": "TopDownMovement",
+          "GamepadIdentifier": 1,
+          "UseArrows": true,
+          "UseLeftStick": true,
+          "UseRightStick": false,
+          "StickMode": "Analog"
         },
         {
           "name": "TopDownMovement",
@@ -2511,6 +2575,120 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "goutteleftcontinue7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mort",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_mort1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_mort2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_mort3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_mort4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_mort5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_mort6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5641,12 +5819,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -5688,12 +5866,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                ""
+                "yes"
               ]
             },
             {
@@ -5823,12 +6001,12 @@
                 },
                 {
                   "type": {
-                    "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                    "value": "ActivateBehavior"
                   },
                   "parameters": [
                     "Goutte",
                     "TopDownMovement",
-                    "yes"
+                    "no"
                   ]
                 },
                 {
@@ -6040,6 +6218,10 @@
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "TopDownGamepadMapper",
+          "type": "Gamepads::TopDownGamepadMapper"
         },
         {
           "name": "TopDownMovement",
@@ -7741,12 +7923,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -7788,12 +7970,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                ""
+                "yes"
               ]
             },
             {
@@ -7915,12 +8097,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -8084,12 +8266,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -9672,12 +9854,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -9719,12 +9901,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                ""
+                "yes"
               ]
             },
             {
@@ -9847,12 +10029,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -9999,12 +10181,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -12472,12 +12654,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -12519,12 +12701,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                ""
+                "yes"
               ]
             },
             {
@@ -12646,12 +12828,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -12798,12 +12980,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -16846,12 +17028,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -16893,12 +17075,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                ""
+                "yes"
               ]
             },
             {
@@ -17020,12 +17202,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -17189,12 +17371,12 @@
             },
             {
               "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
+                "value": "ActivateBehavior"
               },
               "parameters": [
                 "Goutte",
                 "TopDownMovement",
-                "yes"
+                "no"
               ]
             },
             {
@@ -17731,11 +17913,31 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "",
-                        "Right"
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Right"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Axis_pushed"
+                          },
+                          "parameters": [
+                            "",
+                            "1",
+                            "\"Left\"",
+                            "\"Right\"",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ],
@@ -17796,12 +17998,33 @@
                       "conditions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "KeyPressed"
+                            "value": "BuiltinCommonInstructions::Or"
                           },
-                          "parameters": [
-                            "",
-                            "Right"
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Right"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "1",
+                                "\"Left\"",
+                                "\"Right\"",
+                                ""
+                              ]
+                            }
                           ]
                         }
                       ],
@@ -17855,11 +18078,31 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "",
-                        "Left"
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Axis_pushed"
+                          },
+                          "parameters": [
+                            "",
+                            "1",
+                            "\"Left\"",
+                            "\"Left\"",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ]
+                        }
                       ]
                     }
                   ],
@@ -17920,12 +18163,33 @@
                       "conditions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "KeyPressed"
+                            "value": "BuiltinCommonInstructions::Or"
                           },
-                          "parameters": [
-                            "",
-                            "Left"
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Left"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "1",
+                                "\"Left\"",
+                                "\"Left\"",
+                                ""
+                              ]
+                            }
                           ]
                         }
                       ],
@@ -17979,11 +18243,31 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "",
-                        "Up"
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Axis_pushed"
+                          },
+                          "parameters": [
+                            "",
+                            "1",
+                            "\"Left\"",
+                            "\"Up\"",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Up"
+                          ]
+                        }
                       ]
                     }
                   ],
@@ -18044,12 +18328,33 @@
                       "conditions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "KeyPressed"
+                            "value": "BuiltinCommonInstructions::Or"
                           },
-                          "parameters": [
-                            "",
-                            "Up"
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Up"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "1",
+                                "\"Left\"",
+                                "\"Up\"",
+                                ""
+                              ]
+                            }
                           ]
                         }
                       ],
@@ -18103,11 +18408,31 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "",
-                        "Down"
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Axis_pushed"
+                          },
+                          "parameters": [
+                            "",
+                            "1",
+                            "\"Left\"",
+                            "\"Down\"",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Down"
+                          ]
+                        }
                       ]
                     }
                   ],
@@ -18168,12 +18493,33 @@
                       "conditions": [
                         {
                           "type": {
-                            "inverted": true,
-                            "value": "KeyPressed"
+                            "value": "BuiltinCommonInstructions::Or"
                           },
-                          "parameters": [
-                            "",
-                            "Down"
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "1",
+                                "\"Left\"",
+                                "\"Down\"",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Down"
+                              ]
+                            }
                           ]
                         }
                       ],
@@ -18230,6 +18576,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Sounds Mouvements",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -18239,6 +18586,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Right",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -18426,6 +18774,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Left",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
