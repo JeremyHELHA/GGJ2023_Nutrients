@@ -23,7 +23,7 @@
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
-    "latestCompilationDirectory": "C:\\Users\\leilu\\OneDrive\\Documents\\GitHub\\GGJ2023_Nutrients\\release02",
+    "latestCompilationDirectory": "C:\\Users\\leilu\\OneDrive\\Documents\\GitHub\\GGJ2023_Nutrients\\release04",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -1619,6 +1619,60 @@
         "name": "Mort6",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_nutri1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_nutri1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_nutri2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_nutri2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_nutri3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_nutri3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_nutri4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_nutri4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_nutri5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_nutri5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "image (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "image (1).png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2761,6 +2815,103 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Nutri",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_nutri1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_nutri2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_nutri3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_nutri4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets_nutri5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3249,7 +3400,7 @@
       "behaviors": [],
       "string": "Timer:",
       "font": "pixeldown.ttf",
-      "textAlignment": "left",
+      "textAlignment": "center",
       "characterSize": 20,
       "color": {
         "b": 0,
@@ -3271,7 +3422,7 @@
       "behaviors": [],
       "string": "Retries:",
       "font": "pixeldown.ttf",
-      "textAlignment": "left",
+      "textAlignment": "center",
       "characterSize": 40,
       "color": {
         "b": 0,
@@ -4826,7 +4977,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.472806087633166,
+        "zoomFactor": 0.33432439075169273,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6051,7 +6202,7 @@
                   },
                   "parameters": [
                     "Goutte",
-                    "\"Stand\""
+                    "\"Nutri\""
                   ]
                 },
                 {
@@ -6317,7 +6468,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4527606606517853,
+        "zoomFactor": 0.3491261960880172,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -8451,6 +8602,10 @@
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "TopDownGamepadMapper",
+          "type": "Gamepads::TopDownGamepadMapper"
         },
         {
           "name": "TopDownMovement",
@@ -17218,7 +17373,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Timer and retries",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17429,7 +17583,7 @@
               },
               "parameters": [
                 "",
-                "\"Level6\"",
+                "\"EndScreen\"",
                 ""
               ]
             }
@@ -17598,6 +17752,276 @@
           "type": "Tween::TweenBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "EndScreen",
+      "name": "EndScreen",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.34912619608802137,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 134,
+          "layer": "UI",
+          "name": "Congratulations",
+          "persistentUuid": "9159bf71-5c97-4033-8ebd-96e62a8a372f",
+          "width": 1916,
+          "x": 0,
+          "y": 114,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 45,
+          "layer": "UI",
+          "name": "Retries",
+          "persistentUuid": "e65fcb64-61a8-4c21-bdde-967d89d21e50",
+          "width": 1904,
+          "x": 2,
+          "y": 456,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 225,
+          "layer": "UI",
+          "name": "Credits",
+          "persistentUuid": "bae5501e-f900-4f0c-8551-cb5f0123ca66",
+          "width": 315,
+          "x": 1569,
+          "y": 765,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1106,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "23fa43a2-4d05-4923-b20f-0698815cf633",
+          "width": 1950,
+          "x": -16,
+          "y": -16,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Congratulations",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Congratulations",
+          "font": "pixeldown.ttf",
+          "textAlignment": "center",
+          "characterSize": 120,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Credits",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Credits:\nRomane\nMallory\nEden\nJérémy",
+          "font": "pixeldown.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "image (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "LevelEvents"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Retries",
+                "=",
+                "\"It took you \"+ ToString(floor(GlobalVariable(Time)/60)) + \" seconds and \" + ToString(GlobalVariable(Attempts)) + \" attempts to finish our game.\""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 2,
+          "ambientLightColorG": 134217728,
+          "ambientLightColorR": 1597525313,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 11984912,
+          "ambientLightColorG": 6062976,
+          "ambientLightColorR": 13556088,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "PathfindingObstacle",
+          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "TopDownGamepadMapper",
+          "type": "Gamepads::TopDownGamepadMapper"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [
@@ -17733,6 +18157,15 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Goutte",
+                "\"Nutri\""
+              ]
+            },
             {
               "type": {
                 "value": "PlaySound"
@@ -19296,6 +19729,30 @@
                 }
               ],
               "parameters": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ]
             }
           ]
         }
