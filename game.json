@@ -1565,6 +1565,60 @@
         "name": "assets_mort6.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mort.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mort",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mort2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mort2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mort3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mort3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mort4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mort4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mort5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mort5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mort6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mort6",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2599,11 +2653,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets_mort1.png",
+                  "image": "Mort",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2620,7 +2675,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets_mort2.png",
+                  "image": "Mort2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2637,7 +2692,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets_mort3.png",
+                  "image": "Mort3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2654,7 +2709,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets_mort4.png",
+                  "image": "Mort4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2671,7 +2726,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets_mort5.png",
+                  "image": "Mort5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2688,7 +2743,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets_mort6.png",
+                  "image": "Mort6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5992,6 +6047,15 @@
               "actions": [
                 {
                   "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Goutte",
+                    "\"Stand\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Delete"
                   },
                   "parameters": [
@@ -8258,10 +8322,11 @@
           "actions": [
             {
               "type": {
-                "value": "Arreter"
+                "value": "SetAnimationName"
               },
               "parameters": [
-                "Goutte"
+                "Goutte",
+                "\"Mort\""
               ]
             },
             {
@@ -8272,6 +8337,14 @@
                 "Goutte",
                 "TopDownMovement",
                 "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Goutte"
               ]
             },
             {
@@ -10173,10 +10246,11 @@
           "actions": [
             {
               "type": {
-                "value": "Arreter"
+                "value": "SetAnimationName"
               },
               "parameters": [
-                "Goutte"
+                "Goutte",
+                "\"Mort\""
               ]
             },
             {
@@ -10187,6 +10261,14 @@
                 "Goutte",
                 "TopDownMovement",
                 "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Goutte"
               ]
             },
             {
@@ -12972,10 +13054,11 @@
           "actions": [
             {
               "type": {
-                "value": "Arreter"
+                "value": "SetAnimationName"
               },
               "parameters": [
-                "Goutte"
+                "Goutte",
+                "\"Mort\""
               ]
             },
             {
@@ -12986,6 +13069,14 @@
                 "Goutte",
                 "TopDownMovement",
                 "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Goutte"
               ]
             },
             {
@@ -17363,10 +17454,11 @@
           "actions": [
             {
               "type": {
-                "value": "Arreter"
+                "value": "SetAnimationName"
               },
               "parameters": [
-                "Goutte"
+                "Goutte",
+                "\"Mort\""
               ]
             },
             {
@@ -17377,6 +17469,14 @@
                 "Goutte",
                 "TopDownMovement",
                 "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Goutte"
               ]
             },
             {
@@ -17574,197 +17674,6 @@
           ]
         },
         {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "Goutte",
-                "Down"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Goutte",
-                "\"StartBottom\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Goutte",
-                "\"Idle\""
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Right"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::TopDownMovementBehavior::SetVelocityX"
-              },
-              "parameters": [
-                "Goutte",
-                "TopDownMovement",
-                "+",
-                "50"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Up"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::TopDownMovementBehavior::SetVelocityY"
-              },
-              "parameters": [
-                "Goutte",
-                "TopDownMovement",
-                "-",
-                "50"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::TopDownMovementBehavior::SetVelocityX"
-              },
-              "parameters": [
-                "Goutte",
-                "TopDownMovement",
-                "-",
-                "50"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Goutte",
-                "Nutrient",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Nutrient",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::IgnoreDefaultControls"
-              },
-              "parameters": [
-                "Goutte",
-                "TopDownMovement",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "TopDownMovementBehavior::IsMoving"
-              },
-              "parameters": [
-                "Goutte",
-                "TopDownMovement"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "Pesticide"
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -17863,12 +17772,41 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
-                "value": "TopDownMovementBehavior::IsMoving"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "Goutte",
-                "TopDownMovement"
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::PathFound"
+                  },
+                  "parameters": [
+                    "Goutte",
+                    "Pathfinding"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "TopDownMovementBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Goutte",
+                    "TopDownMovement"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Goutte",
+                    "Nutrient",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
               ]
             }
           ],
@@ -17894,6 +17832,29 @@
               "parameters": [
                 "Goutte",
                 "TopDownMovement"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Goutte",
+                "Pesticide",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PathfindingBehavior::PathFound"
+              },
+              "parameters": [
+                "Goutte",
+                "Pathfinding"
               ]
             }
           ],
